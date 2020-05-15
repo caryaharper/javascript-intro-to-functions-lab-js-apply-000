@@ -1,4 +1,4 @@
-function shout ( hello ) {
+function shout ( HELLO ) {
 
 }
 
