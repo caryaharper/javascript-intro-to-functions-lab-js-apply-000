@@ -7,7 +7,7 @@ return string.toLowerCase()
 }
 
 function logShout ( string ) {
-consol.log() 
+consol.log(spy)
 }
 
 function logWhisper ( string ) {
