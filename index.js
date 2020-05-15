@@ -3,6 +3,7 @@ return string.toUpperCase ()
 }
 
 function whisper ( string ) {
+<<<<<<< HEAD
   return string.toLowerCase ()
 }
 
@@ -26,3 +27,7 @@ function sayHiToGrandma ( string ) {
   }
 }
 
+=======
+  return string.toLowerCase
+}
+>>>>>>> 729864d8364a62a05a61886c6cd5d763e6959b02
